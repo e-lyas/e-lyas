@@ -1,5 +1,5 @@
 ### Hi there! 👋  
-🖤I'm **@e-lyas**, a 16-year-old web developer.  
+🖤I'm **@e-lyas**
 
 🤍Interested in **web development** & **security**  
 🩶 I work with **HTML**, **CSS**, and **JavaScript** (learning **Python** next)    
